@@ -3,6 +3,6 @@ and then compile it and give the output file whose name is "BINARY_OUTPUT.txt" t
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "BINARY OUTPUT.txt" from https://github.com/VahanAbrahamyan/Assembly-language-for-CPU_SIMULATOR/blob/main/Assembly%20language/BINARY_OUTPUT.txt  --is a binary code,where written 32bit commands for this CPU
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-"BINARY_INPUT.txt"  from https://github.com/VahanAbrahamyan/CPU_SIMULATOR is a input file for this CPU
+"BINARY_INPUT.txt"  from https://github.com/VahanAbrahamyan/CPU_SIMULATOR/blob/main/CPUSimulator1/BINARY_INPUT.txt is a input file for this CPU. "BINARY_INPUT.txt" and "BINARY_OUTPUT.txt" were written same binary data.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Now BINARY INPUT.text is written the binary version of the Fibonacci nth number search algorithm
