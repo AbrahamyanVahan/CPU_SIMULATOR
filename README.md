@@ -5,4 +5,4 @@ and then compile it and give the output file whose name is "BINARY_OUTPUT.txt" t
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 "BINARY_INPUT.txt"  from https://github.com/VahanAbrahamyan/CPU_SIMULATOR/blob/main/CPUSimulator1/BINARY_INPUT.txt is a input file for this CPU. "BINARY_INPUT.txt" and "BINARY_OUTPUT.txt" were written same binary data.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Now BINARY INPUT.text is written the binary version of the Fibonacci nth number search algorithm
+Now BINARY INPUT.text is written the binary version of the Fibonacci nth number search algorithm
